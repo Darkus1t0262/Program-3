@@ -11,7 +11,7 @@ This is a Java program called `SumNumbers` that adds two numbers. The program is
 ## Getting Started
 
 1. **Clone the Repository** (or download this folder directly):
-   ```bash
+   
    git clone <https://github.com/Darkus1t0262/Program-3/tree/tests>
    cd Program-3/Hello
 
