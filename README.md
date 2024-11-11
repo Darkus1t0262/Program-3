@@ -22,3 +22,6 @@ docker build -t sum-numbers .
 **Run the Docker container:**
 
 docker run sum-numbers
+
+**DockerHub Download**
+docker run -p 90:90 --name sum_numbers darkjus/program-3
